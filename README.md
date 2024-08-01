@@ -19,8 +19,8 @@ See codeblock comments for line-by-line description.
 
 * How/where to download your program
 * To use:
-* Must be logged into your own Google account
-* Must change mount line to direct to personal Google Drive
+** Must be logged into your own Google account
+** Must change mount line to direct to personal Google Drive
 
 ### Executing program
 
