@@ -7,6 +7,7 @@ This tool was developed for use and modification by Headwaters Economics to scra
 See codeblock comments for line-by-line description. 
 
 To view current data on map download: https://www.google.com/maps/d/u/0/viewer?mid=1oaCATPJFd0sMA7wQgOVnPTJv19nx0nY&ll=37.714020405749174%2C-97.96976945&z=4 
+
 Navigate to view Google Map in Google Earth
 
 ## Getting Started
